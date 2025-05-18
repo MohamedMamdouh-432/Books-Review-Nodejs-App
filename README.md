@@ -59,7 +59,6 @@ A simple Nodejs application that allows users to create, read, update and delete
     Search by ISBN – Using Promises
     Search by Author
     Search by Title
-    Submission of Project GitHub Link
 
 ## License
 

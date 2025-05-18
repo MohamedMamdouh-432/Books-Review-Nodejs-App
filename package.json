@@ -26,6 +26,7 @@
   "homepage": "https://github.com/MohamedMamdouh-432/Books-Review-Nodejs-App#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
+    "chalk": "^5.4.1",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
