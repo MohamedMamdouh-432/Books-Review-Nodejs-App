@@ -1,0 +1,302 @@
+[
+    {
+        "isbn": "9780061120084",
+        "title": "To Kill a Mockingbird",
+        "authors": [
+            "Harper Lee"
+        ],
+        "publisher": "HarperCollins",
+        "publishDate": "1960-07-11T00:00:00.000Z",
+        "description": "A novel about the roots and consequences of racism and prejudice in the American South.",
+        "genre": [
+            "Fiction",
+            "Classic"
+        ],
+        "pages": 281
+    },
+    {
+        "isbn": "9780451524935",
+        "title": "1984",
+        "authors": [
+            "George Orwell"
+        ],
+        "publisher": "Signet Classics",
+        "publishDate": "1949-06-08T00:00:00.000Z",
+        "description": "A dystopian novel set in a totalitarian society ruled by the Party and its leader, Big Brother.",
+        "genre": [
+            "Dystopian",
+            "Political Fiction"
+        ],
+        "pages": 328
+    },
+    {
+        "isbn": "9780743273565",
+        "title": "The Great Gatsby",
+        "authors": [
+            "F. Scott Fitzgerald"
+        ],
+        "publisher": "Scribner",
+        "publishDate": "1925-04-10T00:00:00.000Z",
+        "description": "A story of wealth, love, and the American Dream in the Jazz Age.",
+        "genre": [
+            "Classic",
+            "Literary Fiction"
+        ],
+        "pages": 180
+    },
+    {
+        "isbn": "9780316769488",
+        "title": "The Catcher in the Rye",
+        "authors": [
+            "J.D. Salinger"
+        ],
+        "publisher": "Little, Brown and Company",
+        "publishDate": "1951-07-16T00:00:00.000Z",
+        "description": "A novel about teenage alienation and loss of innocence.",
+        "genre": [
+            "Coming-of-age",
+            "Literary Fiction"
+        ],
+        "pages": 234
+    },
+    {
+        "isbn": "9780544003415",
+        "title": "The Hobbit",
+        "authors": [
+            "J.R.R. Tolkien"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishDate": "1937-09-21T00:00:00.000Z",
+        "description": "A fantasy novel about the adventures of Bilbo Baggins.",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "pages": 310
+    },
+    {
+        "isbn": "9780439023481",
+        "title": "The Hunger Games",
+        "authors": [
+            "Suzanne Collins"
+        ],
+        "publisher": "Scholastic Press",
+        "publishDate": "2008-09-14T00:00:00.000Z",
+        "description": "A dystopian novel about a televised fight to the death among teenagers.",
+        "genre": [
+            "Dystopian",
+            "Young Adult"
+        ],
+        "pages": 374
+    },
+    {
+        "isbn": "9780553418026",
+        "title": "The Martian",
+        "authors": [
+            "Andy Weir"
+        ],
+        "publisher": "Broadway Books",
+        "publishDate": "2014-02-11T00:00:00.000Z",
+        "description": "A science fiction novel about an astronaut stranded on Mars.",
+        "genre": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "pages": 369
+    },
+    {
+        "isbn": "9780307474278",
+        "title": "The Da Vinci Code",
+        "authors": [
+            "Dan Brown"
+        ],
+        "publisher": "Anchor",
+        "publishDate": "2003-03-18T00:00:00.000Z",
+        "description": "A mystery thriller about a symbologist and a cryptologist.",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "pages": 489
+    },
+    {
+        "isbn": "9780062315007",
+        "title": "The Alchemist",
+        "authors": [
+            "Paulo Coelho"
+        ],
+        "publisher": "HarperOne",
+        "publishDate": "1988-01-01T00:00:00.000Z",
+        "description": "A philosophical novel about a shepherd's journey to find treasure.",
+        "genre": [
+            "Philosophical Fiction",
+            "Adventure"
+        ],
+        "pages": 208
+    },
+    {
+        "isbn": "9780385472579",
+        "title": "Things Fall Apart",
+        "authors": [
+            "Chinua Achebe"
+        ],
+        "publisher": "Anchor",
+        "publishDate": "1958-06-17T00:00:00.000Z",
+        "description": "A novel about pre-colonial life in Nigeria and the arrival of Europeans.",
+        "genre": [
+            "Historical Fiction",
+            "African Literature"
+        ],
+        "pages": 209
+    },
+    {
+        "isbn": "9780140283334",
+        "title": "The Catcher in the Rye",
+        "authors": [
+            "J.D. Salinger"
+        ],
+        "publisher": "Penguin Books",
+        "publishDate": "1951-07-16T00:00:00.000Z",
+        "description": "A novel about teenage alienation and loss of innocence.",
+        "genre": [
+            "Coming-of-age",
+            "Literary Fiction"
+        ],
+        "pages": 234
+    },
+    {
+        "isbn": "9780743477109",
+        "title": "Gone with the Wind",
+        "authors": [
+            "Margaret Mitchell"
+        ],
+        "publisher": "Scribner",
+        "publishDate": "1936-06-30T00:00:00.000Z",
+        "description": "A historical novel set in the American South during the Civil War.",
+        "genre": [
+            "Historical Fiction",
+            "Romance"
+        ],
+        "pages": 1037
+    },
+    {
+        "isbn": "9780060850524",
+        "title": "Brave New World",
+        "authors": [
+            "Aldous Huxley"
+        ],
+        "publisher": "Harper Perennial",
+        "publishDate": "1932-01-01T00:00:00.000Z",
+        "description": "A dystopian novel about a futuristic World State.",
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "pages": 288
+    },
+    {
+        "isbn": "9780141439518",
+        "title": "Pride and Prejudice",
+        "authors": [
+            "Jane Austen"
+        ],
+        "publisher": "Penguin Classics",
+        "publishDate": "1813-01-28T00:00:00.000Z",
+        "description": "A romantic novel about the Bennet family and their five daughters.",
+        "genre": [
+            "Romance",
+            "Classic"
+        ],
+        "pages": 279
+    },
+    {
+        "isbn": "9780743477108",
+        "title": "Romeo and Juliet",
+        "authors": [
+            "William Shakespeare"
+        ],
+        "publisher": "Simon & Schuster",
+        "publishDate": "1597-01-01T00:00:00.000Z",
+        "description": "A tragic love story between two young star-crossed lovers.",
+        "genre": [
+            "Tragedy",
+            "Drama"
+        ],
+        "pages": 480
+    },
+    {
+        "isbn": "9780307387899",
+        "title": "The Road",
+        "authors": [
+            "Cormac McCarthy"
+        ],
+        "publisher": "Vintage",
+        "publishDate": "2006-09-26T00:00:00.000Z",
+        "description": "A post-apocalyptic novel about a father and son's journey.",
+        "genre": [
+            "Post-apocalyptic",
+            "Dystopian"
+        ],
+        "pages": 287
+    },
+    {
+        "isbn": "9780061120085",
+        "title": "The Lord of the Rings",
+        "authors": [
+            "J.R.R. Tolkien"
+        ],
+        "publisher": "HarperCollins",
+        "publishDate": "1954-07-29T00:00:00.000Z",
+        "description": "An epic high fantasy novel about the quest to destroy the One Ring.",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "pages": 1178
+    },
+    {
+        "isbn": "9780385490818",
+        "title": "The Handmaid's Tale",
+        "authors": [
+            "Margaret Atwood"
+        ],
+        "publisher": "Anchor",
+        "publishDate": "1985-01-01T00:00:00.000Z",
+        "description": "A dystopian novel about a totalitarian society where women are subjugated.",
+        "genre": [
+            "Dystopian",
+            "Feminist Fiction"
+        ],
+        "pages": 311
+    },
+    {
+        "isbn": "9781400033423",
+        "title": "Beloved",
+        "authors": [
+            "Toni Morrison"
+        ],
+        "publisher": "Vintage",
+        "publishDate": "1987-09-02T00:00:00.000Z",
+        "description": "A novel about a former slave haunted by her past.",
+        "genre": [
+            "Historical Fiction",
+            "Magical Realism"
+        ],
+        "pages": 324
+    },
+    {
+        "isbn": "9780743273566",
+        "title": "Animal Farm",
+        "authors": [
+            "George Orwell"
+        ],
+        "publisher": "Signet Classics",
+        "publishDate": "1945-08-17T00:00:00.000Z",
+        "description": "An allegorical novella about farm animals who rebel against their human farmer.",
+        "genre": [
+            "Political Satire",
+            "Allegory"
+        ],
+        "pages": 112
+    }
+]

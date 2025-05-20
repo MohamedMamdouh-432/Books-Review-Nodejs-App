@@ -1,0 +1,122 @@
+[
+    {
+        "user": "507f1f77bcf86cd799439011",
+        "book": "507f1f77bcf86cd799439001",
+        "rating": 9,
+        "comment": "A timeless classic that explores important themes of racism and morality."
+    },
+    {
+        "user": "507f1f77bcf86cd799439012",
+        "book": "507f1f77bcf86cd799439001",
+        "rating": 8,
+        "comment": "Beautifully written but some parts felt slow."
+    },
+    {
+        "user": "507f1f77bcf86cd799439013",
+        "book": "507f1f77bcf86cd799439002",
+        "rating": 10,
+        "comment": "Chilling and thought-provoking. More relevant today than ever."
+    },
+    {
+        "user": "507f1f77bcf86cd799439014",
+        "book": "507f1f77bcf86cd799439002",
+        "rating": 7,
+        "comment": "Great concept but the ending was a bit disappointing."
+    },
+    {
+        "user": "507f1f77bcf86cd799439015",
+        "book": "507f1f77bcf86cd799439003",
+        "rating": 9,
+        "comment": "Fitzgerald's prose is absolutely stunning. A masterpiece."
+    },
+    {
+        "user": "507f1f77bcf86cd799439016",
+        "book": "507f1f77bcf86cd799439003",
+        "rating": 6,
+        "comment": "I didn't connect with the characters as much as I hoped."
+    },
+    {
+        "user": "507f1f77bcf86cd799439017",
+        "book": "507f1f77bcf86cd799439004",
+        "rating": 8,
+        "comment": "Holden Caulfield is such a relatable character for teenagers."
+    },
+    {
+        "user": "507f1f77bcf86cd799439018",
+        "book": "507f1f77bcf86cd799439004",
+        "rating": 5,
+        "comment": "Found the protagonist annoying and whiny."
+    },
+    {
+        "user": "507f1f77bcf86cd799439019",
+        "book": "507f1f77bcf86cd799439005",
+        "rating": 10,
+        "comment": "A perfect adventure story that started the fantasy genre as we know it."
+    },
+    {
+        "user": "507f1f77bcf86cd799439020",
+        "book": "507f1f77bcf86cd799439005",
+        "rating": 9,
+        "comment": "Bilbo's journey is both exciting and heartwarming."
+    },
+    {
+        "user": "507f1f77bcf86cd799439021",
+        "book": "507f1f77bcf86cd799439006",
+        "rating": 8,
+        "comment": "Gripping from start to finish. Couldn't put it down!"
+    },
+    {
+        "user": "507f1f77bcf86cd799439022",
+        "book": "507f1f77bcf86cd799439006",
+        "rating": 7,
+        "comment": "Enjoyable but a bit too violent for my taste."
+    },
+    {
+        "user": "507f1f77bcf86cd799439023",
+        "book": "507f1f77bcf86cd799439007",
+        "rating": 9,
+        "comment": "Brilliant mix of science and humor. Mark Watney is hilarious!"
+    },
+    {
+        "user": "507f1f77bcf86cd799439024",
+        "book": "507f1f77bcf86cd799439007",
+        "rating": 8,
+        "comment": "The technical details were fascinating but sometimes overwhelming."
+    },
+    {
+        "user": "507f1f77bcf86cd799439025",
+        "book": "507f1f77bcf86cd799439008",
+        "rating": 7,
+        "comment": "Fast-paced and entertaining, though some plot twists were predictable."
+    },
+    {
+        "user": "507f1f77bcf86cd799439026",
+        "book": "507f1f77bcf86cd799439008",
+        "rating": 6,
+        "comment": "Good beach read but not particularly deep."
+    },
+    {
+        "user": "507f1f77bcf86cd799439027",
+        "book": "507f1f77bcf86cd799439009",
+        "rating": 10,
+        "comment": "Life-changing book that I revisit every year."
+    },
+    {
+        "user": "507f1f77bcf86cd799439028",
+        "book": "507f1f77bcf86cd799439009",
+        "rating": 5,
+        "comment": "Overly simplistic and repetitive. Didn't live up to the hype."
+    },
+    {
+        "user": "507f1f77bcf86cd799439029",
+        "book": "507f1f77bcf86cd799439010",
+        "rating": 9,
+        "comment": "Powerful storytelling that gives voice to African history."
+    },
+    {
+        "user": "507f1f77bcf86cd799439030",
+        "book": "507f1f77bcf86cd799439010",
+        "rating": 8,
+        "comment": "Important book but some cultural references were hard to understand."
+    }
+]
